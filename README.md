@@ -22,6 +22,7 @@
 - <img src="https://github.com/user-attachments/assets/12043846-5995-41e3-a6f2-693aa19f4eb8" alt="react" width="20" margin='0'/> [GitHub Elo🔗](https://githubelo.web.app/): A place for GitHub users to get an elo score of their GitHub stats.
 - 👨‍💻 [Housekeepr🔗](https://housekeepr.vercel.app/): Employee Management Tool **work in progress**....
 - 🌙 [AdhanCast🔗](https://github.com/ammar-15/AdhanCast): A Windows app that plays the Adhan (call to prayer) for Fajr, Maghrib, and Isha on a Google Nest Mini / Chromecast device at scheduled times.
+- 📱 [Rot Launcher🔗](https://github.com/PranayBolem/InstaReelsLauncher): A Phone Launcher that plays your instagram reels in your phone's homescreen and other apps increasing screentime and doomscrolling for maximimum brain rot.
 
 
 ## Languages and Tools
