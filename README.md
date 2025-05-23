@@ -4,7 +4,7 @@
 ## About Me
 <img align="right" style="margin: 20px border-radius:10px;" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ea7edfeb-691f-4099-8edf-ea80230b1917">
 
-- 🚀 Currently leveling up in NodeJS through the **Get Building** program.
+- 🚀 Currently leveling up in NodeJS through the [**Get Building**](https://app.getcoding.ca/reviews/mohammed-ammar-faruqui/) program.
   
 - 💡 Started my journey to become a fullstack developer. I am passionate towards every step of the development process.
   
