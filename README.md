@@ -18,7 +18,7 @@
 
 ## Projects
 
-- ⚽ [Goalzy🔗](https://github.com/ammar-15/fifa-tracker-frontend): Stats tracking and analyzing for FIFA matches against your friends and AI.
+- ⚽ [Goalzy🔗](https://github.com/ammar-15/fifa-tracker-frontend): Stats tracking and analysis for FIFA matches against your friends and AI.
 - 👨‍💻 [Housekeepr🔗](https://housekeepr.vercel.app/): Employee Management App to manage housekeeping for a medium to small sized hotel instead of relying on paper based systems.
 - 🏨 [Roomer🔗](https://roomer1-demo.web.app/): A web app designed to streamline hotel operations by facilitating real-time communication between the front desk and housekeeping.
 - <img src="https://github.com/user-attachments/assets/12043846-5995-41e3-a6f2-693aa19f4eb8" alt="react" width="20" margin='0'/> [GitHub Elo🔗](https://githubelo.web.app/): A place for GitHub users to get an elo score of their GitHub stats.
