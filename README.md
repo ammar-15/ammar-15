@@ -18,6 +18,7 @@
 
 ## Projects
 
+- ⚽ [Goalzy🔗](https://github.com/ammar-15/fifa-tracker-frontend): Stats tracking and analyzing for FIFA matches against your friends and AI.
 - 👨‍💻 [Housekeepr🔗](https://housekeepr.vercel.app/): Employee Management App to manage housekeeping for a medium to small sized hotel instead of relying on paper based systems.
 - 🏨 [Roomer🔗](https://roomer1-demo.web.app/): A web app designed to streamline hotel operations by facilitating real-time communication between the front desk and housekeeping.
 - <img src="https://github.com/user-attachments/assets/12043846-5995-41e3-a6f2-693aa19f4eb8" alt="react" width="20" margin='0'/> [GitHub Elo🔗](https://githubelo.web.app/): A place for GitHub users to get an elo score of their GitHub stats.
@@ -28,37 +29,9 @@
 ## Languages and Tools
 
 <p align="left">
-  <a href="https://react-icons.github.io/react-icons/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="css3" width="40" height="40" style="padding: 5px; />
-  </a> 
 
-  <a href="https://react-icons.github.io/react-icons/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="css3" width="40" height="40" style="padding: 5px; />
-  </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding: 5px;" /> 
-  </a> 
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="css3" width="40" height="40" style="padding: 3px;" /> 
-  </a> 
-
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" style="padding: 5px;" /> 
-  </a> 
-
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="firebase" width="45" height="45" style="padding: 5px;" /> 
-  </a>
-
-  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="45" height="45" style="padding: 5px;" /> 
-  </a>
-
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="padding: 5px;" /> 
-  </a>
+  [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,py,postman,sqlite,firebase,express,bootstrap,js,html,css,flask)](https://skillicons.dev)
+ 
 </p>
 
 
