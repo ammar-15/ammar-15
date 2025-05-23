@@ -30,7 +30,7 @@
 
 <p align="left">
 
-  [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,tailwind,py,postman,sqlite,firebase,express,bootstrap,js,html,css,flask)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,js,tailwind,py,flask,sqlite,firebase,express,postman,bootstrap,html,css)](https://skillicons.dev)
  
 </p>
 
