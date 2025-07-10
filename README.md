@@ -20,7 +20,7 @@
 
 - ⚽ [Goalzy🔗](https://github.com/ammar-15/fifa-tracker-frontend): Stats tracking and analysis for FIFA matches against your friends and AI.
 - 👨‍💻 [Housekeepr🔗](https://housekeepr.vercel.app/): Employee Management App to manage housekeeping for a medium to small sized hotel instead of relying on paper based systems.
-- 🔫 [Snipr🔗](https://github.com/ammar-15/snipr/): Snipr uses AI to verify how accurate Twitter traders' stock calls are by analyzing their past calls and comparing them to real market trends.
+- 🔫 [Snipr🔗](https://tweetsniper.vercel.app/): Snipr uses AI to verify how accurate Twitter traders' stock calls are by analyzing their past calls and comparing them to real market trends.
 - <img src="https://github.com/user-attachments/assets/12043846-5995-41e3-a6f2-693aa19f4eb8" alt="react" width="20" margin='0'/> [GitHub Elo🔗](https://githubelo.web.app/): A place for GitHub users to get an elo score of their GitHub stats.
 - 🏨 [Roomer🔗](https://roomer1-demo.web.app/): A web app designed to streamline hotel operations by facilitating real-time communication between the front desk and housekeeping.
 - 🌙 [AdhanCast🔗](https://github.com/ammar-15/AdhanCast): A Windows app that plays the Adhan (call to prayer) for Fajr, Maghrib, and Isha on a Google Nest Mini / Chromecast device at scheduled times.
