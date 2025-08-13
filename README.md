@@ -1,16 +1,23 @@
-<h1 align="center">Hello World! I'm Ammar Faruqui</h1>  
-<h3 align="center">Software Developer in St. John's, NL, Canada</h3>
+<div align="center">
+  <h1>Hello World! I'm Ammar Faruqui</h1>
+  <!-- Light mode logo -->
+  <img src="https://github.com/user-attachments/assets/eaac4c4f-3d58-44f3-af8f-57365af7fa4c#gh-light-mode-only" 
+       width="60" height="60" alt="fiscal.ai light logo" />
+  <!-- Dark mode logo -->
+  <img src="https://github.com/user-attachments/assets/99930bcd-34ef-46df-8fcf-1238febd0120#gh-dark-mode-only" 
+       width="60" height="60" alt="fiscal.ai dark logo" />
+  <h3>Software Engineer: Back-End (Data) @ Fiscal.ai</h3>  
+</div>
+
 
 ## About Me
 <img align="right" style="margin: 20px border-radius:10px;" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ea7edfeb-691f-4099-8edf-ea80230b1917">
 
-- 🚀 Currently leveling up in NodeJS through the [**Get Building**](https://app.getcoding.ca/reviews/mohammed-ammar-faruqui/) program.
-  
-- 💡 Started my journey to become a fullstack developer. I am passionate towards every step of the development process.
+- 🚀 Currently working at [Fiscal.ai](https://fiscal.ai/) building the data backbone for AI-powered financial insights.
   
 - 🧠 Always eager to learn, I believe in the power of continuous learning and pushing my limits beyond the norms of capabilities made up by society.
 
-- ⚡ When I’m not coding, I'm playing football (soccer)⚽, enjoying movies🍿 or watching Formula 1. <a href="https://emoji.gg/emoji/ferrari"><img src="https://cdn3.emoji.gg/emojis/ferrari.png" width="14px" height="16px" alt="ferrari"></a>🏎️
+- ⚡ Aside from coding, I play football (soccer)⚽, drown in movies🍿 and watch Formula 1. <a href="https://emoji.gg/emoji/ferrari"><img src="https://cdn3.emoji.gg/emojis/ferrari.png" width="14px" height="16px" alt="ferrari"></a>🏎️
 
 - 💻 Always up for a game of chess over coffee ☕️🫶   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammarfaruqui/)
   [![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ammar_tsx/highlights)
