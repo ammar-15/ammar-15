@@ -1,10 +1,8 @@
 <div align="center">
   <!-- Light mode logo -->
-  <img src="https://github.com/user-attachments/assets/eaac4c4f-3d58-44f3-af8f-57365af7fa4c#gh-light-mode-only" 
-       width="60" height="60" alt="fiscal.ai light logo" />
-  <!-- Dark mode logo -->
-  <img src="https://github.com/user-attachments/assets/99930bcd-34ef-46df-8fcf-1238febd0120#gh-dark-mode-only" 
-       width="60" height="60" alt="fiscal.ai dark logo" />
+  <img src="https://github.com/user-attachments/assets/d3b5b2aa-fc3b-4549-8a38-01a33b999fa9"
+     width="60" height="60" alt="fiscal.ai logo"
+     style="border-radius: 50%;" />
   <h1>Software Engineer: Back-End (Data) @ Fiscal.ai</h1>  
 </div>
 
