@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Hello World! I'm Ammar Faruqui</h1>
+  <h1>Ammar Faruqui</h1>
   <!-- Light mode logo -->
   <img src="https://github.com/user-attachments/assets/eaac4c4f-3d58-44f3-af8f-57365af7fa4c#gh-light-mode-only" 
        width="60" height="60" alt="fiscal.ai light logo" />
   <!-- Dark mode logo -->
   <img src="https://github.com/user-attachments/assets/99930bcd-34ef-46df-8fcf-1238febd0120#gh-dark-mode-only" 
        width="60" height="60" alt="fiscal.ai dark logo" />
-  <h3>Software Engineer: Back-End (Data) @ Fiscal.ai</h3>  
+  <h2>Software Engineer: Back-End (Data) @ Fiscal.ai</h2>  
 </div>
 
 
@@ -17,7 +17,7 @@
   
 - 🧠 Always eager to learn, I believe in the power of continuous learning and pushing my limits beyond the norms of capabilities made up by society.
 
-- ⚡ Aside from coding, I play football (soccer)⚽, drown in movies🍿 and watch Formula 1. <a href="https://emoji.gg/emoji/ferrari"><img src="https://cdn3.emoji.gg/emojis/ferrari.png" width="14px" height="16px" alt="ferrari"></a>🏎️
+- ⚡ Aside from coding, I play football (soccer)⚽, enjoy movies🍿 and watch Formula 1. <a href="https://emoji.gg/emoji/ferrari"><img src="https://cdn3.emoji.gg/emojis/ferrari.png" width="14px" height="16px" alt="ferrari"></a>🏎️
 
 - 💻 Always up for a game of chess over coffee ☕️🫶   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammarfaruqui/)
   [![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ammar_tsx/highlights)
