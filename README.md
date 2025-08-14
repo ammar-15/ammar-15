@@ -1,12 +1,11 @@
 <div align="center">
-  <h1>Ammar Faruqui</h1>
   <!-- Light mode logo -->
   <img src="https://github.com/user-attachments/assets/eaac4c4f-3d58-44f3-af8f-57365af7fa4c#gh-light-mode-only" 
        width="60" height="60" alt="fiscal.ai light logo" />
   <!-- Dark mode logo -->
   <img src="https://github.com/user-attachments/assets/99930bcd-34ef-46df-8fcf-1238febd0120#gh-dark-mode-only" 
        width="60" height="60" alt="fiscal.ai dark logo" />
-  <h2>Software Engineer: Back-End (Data) @ Fiscal.ai</h2>  
+  <h1>Software Engineer: Back-End (Data) @ Fiscal.ai</h1>  
 </div>
 
 
