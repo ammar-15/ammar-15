@@ -1,16 +1,5 @@
-<div align="center">
-  <!-- Light mode logo -->
-  <img src="https://github.com/user-attachments/assets/d3b5b2aa-fc3b-4549-8a38-01a33b999fa9"
-     width="60" height="60" alt="fiscal.ai logo"
-     style="border-radius: 50%;" />
-  <h1>Software Engineer: Back-End (Data) @ Fiscal.ai</h1>  
-</div>
-
-
 ## About Me
 <img align="right" style="margin: 20px border-radius:10px;" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ea7edfeb-691f-4099-8edf-ea80230b1917">
-
-- 🚀 Currently working at [Fiscal.ai](https://fiscal.ai/) building the data backbone for AI-powered financial insights.
   
 - 🧠 Always eager to learn, I believe in the power of continuous learning and pushing my limits beyond the norms of capabilities made up by society.
 
