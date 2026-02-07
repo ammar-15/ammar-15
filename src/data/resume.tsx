@@ -9,12 +9,11 @@ import { Terraform } from "@/components/ui/svgs/terraform";
 import { Postgresql } from "@/components/ui/svgs/postgresql";
 import { Docker } from "@/components/ui/svgs/docker";
 import { AWS } from "@/components/ui/svgs/AWS";
-import { title } from "node:process";
 
 export const DATA = {
   name: "Ammar Faruqui",
   initials: "MAF",
-  url: "https://dillion.io",
+  url: "https://ammar-15.github.io/",
   location: "St. John's, NL",
   locationLink: "https://www.google.com/maps/place/stjohns",
   description: "Builder Vision. Engineer Brain.",
@@ -83,7 +82,7 @@ export const DATA = {
       badges: [],
       location: "Toronto, ON (Remote)",
       title: "Software Engineer – Back-End (Data)",
-      logoUrl: "/fiscal.png", // TODO: add logo asset
+      logoUrl: "/fiscal.png", 
       start: "August 2025",
       end: "November 2025",
       description:
@@ -95,7 +94,7 @@ export const DATA = {
       badges: [],
       location: "St. John’s, NL",
       title: "Business Lead",
-      logoUrl: "/paradigm.png", // TODO: add logo asset
+      logoUrl: "/paradigm.png", 
       start: "September 2023",
       end: "June 2025",
       description:
@@ -107,7 +106,7 @@ export const DATA = {
       badges: [],
       location: "St. John’s, NL",
       title: "Guest Service Representative",
-      logoUrl: "/bestwestern.png", // TODO: add logo asset
+      logoUrl: "/bestwestern.png", 
       start: "October 2021",
       end: "October 2025",
       description:
@@ -133,9 +132,9 @@ export const DATA = {
       ],
       links: [
         {
-          title: "Source",
+          type: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/PranayBolem/InstaReelsLauncher",
+          href: "https://github.com/ammar-15/fifa-tracker-frontend",
         },
       ],
       image: "",
@@ -161,7 +160,7 @@ export const DATA = {
       ],
       links: [
         {
-          title: "Source",
+          type: "Source",
           icon: <Icons.github className="h-4 w-4" />,
           href: "https://github.com/PranayBolem/InstaReelsLauncher",
         },
@@ -179,7 +178,7 @@ export const DATA = {
       technologies: ["React", "TypeScript", "Tailwind CSS", "Firebase"],
       links: [
         {
-          title: "Source",
+          type: "Source",
           icon: <Icons.github className="h-4 w-4" />,
           href: "https://github.com/PranayBolem/InstaReelsLauncher",
         },
@@ -197,7 +196,7 @@ export const DATA = {
       technologies: ["React", "Node.js", "Firebase", "Express", "Tailwind CSS"],
       links: [
         {
-          title: "Source",
+          type: "Source",
           icon: <Icons.github className="h-4 w-4" />,
           href: "https://github.com/PranayBolem/InstaReelsLauncher",
         },
@@ -215,7 +214,7 @@ export const DATA = {
       technologies: ["HTML", "JavaScript", "CSS", "Bootstrap", "Firebase"],
       links: [
         {
-          title: "Source",
+          type: "Source",
           icon: <Icons.github className="h-4 w-4" />,
           href: "https://github.com/PranayBolem/InstaReelsLauncher",
         },
@@ -234,12 +233,12 @@ export const DATA = {
       image: "/adhancast.png",
       links: [
         {
-          title: "Source",
+          type: "Source",
           icon: <Icons.github className="h-4 w-4" />,
           href: "https://github.com/ammar-15/AdhanCast",
         },
         {
-          title: "LinkedIn",
+          type: "LinkedIn",
           icon: <Icons.globe className="h-4 w-4" />,
           href: "https://www.linkedin.com/feed/update/urn:li:activity:7301637061491531777/",
         }
@@ -254,17 +253,17 @@ export const DATA = {
       image: "/rotlauncher.png",
       links: [
         {
-          title: "Source",
+          type: "Source",
           icon: <Icons.github className="h-4 w-4" />,
           href: "https://github.com/PranayBolem/InstaReelsLauncher",
         },
         {
-          title: "LinkedIn",
+          type: "LinkedIn",
           icon: <Icons.globe className="h-4 w-4" />,
           href: "https://www.linkedin.com/feed/update/urn:li:activity:7312811474488287232/",
         },
         {
-          title: "YouTube",
+          type: "YouTube",
           icon: <Icons.youtube className="h-4 w-4" />,
           href: "https://www.youtube.com/shorts/TT_48ZU72u8",
         },

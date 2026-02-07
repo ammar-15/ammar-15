@@ -22,12 +22,12 @@ export const metadata: Metadata = {
 const PAGE_SIZE = 5;
 const BLUR_FADE_DELAY = 0.04;
 
-export default async function BlogPage({
+export default function BlogPage({
   searchParams,
 }: {
-  searchParams: Promise<{ page?: string }>;
+  searchParams?: { page?: string };
 }) {
-  const { page: pageParam } = await searchParams;
+  const pageParam = searchParams?.page;
 
   const posts = allPosts;
   const sortedPosts = [...posts].sort((a, b) => {
@@ -47,7 +47,12 @@ export default async function BlogPage({
   return (
     <section id="blog">
       <BlurFade delay={BLUR_FADE_DELAY}>
-        <h1 className="text-2xl font-semibold tracking-tight mb-2">Blog <span className="ml-1 bg-card border border-border rounded-md px-2 py-1 text-muted-foreground text-sm">{sortedPosts.length} posts</span></h1>
+        <h1 className="text-2xl font-semibold tracking-tight mb-2">
+          Blog{" "}
+          <span className="ml-1 bg-card border border-border rounded-md px-2 py-1 text-muted-foreground text-sm">
+            {sortedPosts.length} posts
+          </span>
+        </h1>
         <p className="text-sm text-muted-foreground mb-8">
           My thoughts on everything and anything.
         </p>
@@ -59,7 +64,8 @@ export default async function BlogPage({
             <div className="flex flex-col gap-5">
               {paginatedPosts.map((post, id) => {
                 const slug = post._meta.path.replace(/\.mdx$/, "");
-                const indexNumber = (pagination.page - 1) * PAGE_SIZE + id + 1;
+                const indexNumber =
+                  (pagination.page - 1) * PAGE_SIZE + id + 1;
                 return (
                   <BlurFade delay={BLUR_FADE_DELAY * 3 + id * 0.05} key={slug}>
                     <Link
@@ -90,7 +96,6 @@ export default async function BlogPage({
             </div>
           </BlurFade>
 
-          {/* Pagination Controls */}
           {pagination.totalPages > 1 && (
             <BlurFade delay={BLUR_FADE_DELAY * 4}>
               <div className="flex gap-3 flex-row items-center justify-between mt-8">
