@@ -142,7 +142,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "",
+      video: "/videos/goalzy.mp4",
     },
     {
       title: "Snipr",
@@ -252,8 +252,22 @@ export const DATA = {
       title: "Rot Launcher Hack Night",
       dates: "Mar 2025",
       location: "St. John's, NL",
-      description:
-        "Built a dompamine inducing tool that launches Instagram reels directly into the home screen to increase short-form content consumption. Focused on speed, minimal UI, and quick access. Collaborated with another developer on design and implementation.", // TODO: expand on tech stack if desired
+      description: (
+        <>
+          Built a dopamine-inducing tool that launches Instagram Reels directly
+          into the home screen to increase short-form content consumption.
+          Focused on speed, minimal UI, and quick access. Collaborated with{" "}
+          <a
+            href="https://www.linkedin.com/in/pranay-bolem/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline underline-offset-2 hover:text-primary"
+          >
+            Pranay Bolem
+          </a>{" "}
+          on design and implementation.
+        </>
+      ),
       image: "/rotlauncher.png",
       links: [
         {
