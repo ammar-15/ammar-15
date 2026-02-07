@@ -31,9 +31,7 @@ export default function BlogPage({
 
   const posts = allPosts;
   const sortedPosts = [...posts].sort((a, b) => {
-    if (new Date(a.publishedAt) > new Date(b.publishedAt)) {
-      return -1;
-    }
+    if (new Date(a.publishedAt) > new Date(b.publishedAt)) return -1;
     return 1;
   });
 
@@ -64,8 +62,8 @@ export default function BlogPage({
             <div className="flex flex-col gap-5">
               {paginatedPosts.map((post, id) => {
                 const slug = post._meta.path.replace(/\.mdx$/, "");
-                const indexNumber =
-                  (pagination.page - 1) * PAGE_SIZE + id + 1;
+                const indexNumber = (pagination.page - 1) * PAGE_SIZE + id + 1;
+
                 return (
                   <BlurFade delay={BLUR_FADE_DELAY * 3 + id * 0.05} key={slug}>
                     <Link
