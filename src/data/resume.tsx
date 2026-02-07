@@ -17,7 +17,7 @@ export const DATA = {
   location: "St. John's, NL",
   locationLink: "https://www.google.com/maps/place/stjohns",
   description: "Builder Vision. Engineer Brain.",
-  summary: "some thing cool",
+  summary: "I like building apps and experimenting with new ideas. Into startups, shipping fast, and working on things that feel exciting to create.",
   avatarUrl: "/me.png",
   skills: [
     { name: "React", icon: ReactLight },
@@ -142,7 +142,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "/videos/goalzy.mp4",
+      video: "/videos/goalzy.mov",
     },
     {
       title: "Snipr",
@@ -166,11 +166,11 @@ export const DATA = {
         {
           type: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/PranayBolem/InstaReelsLauncher",
+          href: "https://github.com/ammar-15/snipr",
         },
       ],
       image: "",
-      video: "",
+      video: "/videos/snipr.mov",
     },
     {
       title: "Housekeepr",
@@ -184,11 +184,11 @@ export const DATA = {
         {
           type: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/PranayBolem/InstaReelsLauncher",
+          href: "https://github.com/ammar-15/housekeepr",
         },
       ],
       image: "",
-      video: "",
+      video: "/videos/housekeepr.mp4",
     },
     {
       title: "GitHubElo",
@@ -202,11 +202,11 @@ export const DATA = {
         {
           type: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/PranayBolem/InstaReelsLauncher",
+          href: "https://github.com/ammar-15/GitHubElo",
         },
       ],
       image: "",
-      video: "",
+      video: "/videos/githubelo.mov",
     },
     {
       title: "Roomer",
@@ -220,11 +220,11 @@ export const DATA = {
         {
           type: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/PranayBolem/InstaReelsLauncher",
+          href: "https://github.com/ammar-15/Roomer-demo",
         },
       ],
       image: "",
-      video: "",
+      video: "/videos/roomer.mov",
     },
   ],
   hackathons: [
@@ -307,20 +307,20 @@ export const DATA = {
   ],
   education: [
     {
+      school: "TechNL",
+      href: "https://technl.ca/ai-skills-launchpad/",
+      degree: "AI in Data Engineering",
+      logoUrl: "/technl.png",
+      start: "Feb 2026",
+      end: "Mar 2026",
+    },
+    {
       school: "Get Building",
       href: "https://getcoding.ca",
       degree: "Full-Stack Software Development (Mentor-led Program)",
       logoUrl: "/getbuilding.png",
       start: "May 2024",
       end: "August 2025",
-    },
-    {
-      school: "techNL",
-      href: "https://technl.ca/ai-skills-launchpad/",
-      degree: "AI in Data Engineering",
-      logoUrl: "/technl.png",
-      start: "Feb 2026",
-      end: "Mar 2026",
     },
     {
       school: "Memorial University of Newfoundland",
