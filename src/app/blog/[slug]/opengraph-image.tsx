@@ -3,6 +3,8 @@
 import { ImageResponse } from "next/og";
 import { allPosts } from "content-collections";
 import { DATA } from "@/data/resume";
+export const dynamic = "force-static";
+export const revalidate = false;
 
 export const runtime = "edge";
 

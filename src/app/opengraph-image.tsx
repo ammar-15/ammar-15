@@ -1,6 +1,7 @@
 import { ImageResponse } from "next/og";
 import { DATA } from "@/data/resume";
-
+export const dynamic = "force-static";
+export const revalidate = false;
 export const runtime = "edge";
 
 export const alt = DATA.name;
