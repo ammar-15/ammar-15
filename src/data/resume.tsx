@@ -33,7 +33,11 @@ export const DATA = {
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
-    { href: "mailto:ammukuul15@gmail.com", icon: Icons.email, label: "ammukuul15@gmail.com" },
+    {
+      href: "mailto:ammukuul15@gmail.com",
+      icon: Icons.email,
+      label: "ammukuul15@gmail.com",
+    },
   ],
   contact: {
     email: "ammukuul15@gmail.com",
@@ -82,9 +86,9 @@ export const DATA = {
       badges: [],
       location: "Toronto, ON (Remote)",
       title: "Software Engineer – Back-End (Data)",
-      logoUrl: "/fiscal.png", 
-      start: "August 2025",
-      end: "November 2025",
+      logoUrl: "/fiscal.png",
+      start: "Aug 2025",
+      end: "Nov 2025",
       description:
         "Built Python and AWS-based data pipelines to extract EPS, weighted average shares outstanding, and share counts from SEC filings for 500+ companies. Optimized LLM-driven PDF extraction using chunking and model fallback strategies, improving processing speed by ~30%. Reduced pipeline errors by ~40% by implementing Pydantic-based validation frameworks and business rules. Debugged large-scale async workflows with rate limiting and integrated Sentry for error tracking.",
     },
@@ -94,9 +98,9 @@ export const DATA = {
       badges: [],
       location: "St. John’s, NL",
       title: "Business Lead",
-      logoUrl: "/paradigm.png", 
-      start: "September 2023",
-      end: "June 2025",
+      logoUrl: "/paradigm.png",
+      start: "Sep 2023",
+      end: "Jun 2025",
       description:
         "Helped raise $65K+ in funding by producing pitch decks, managing outreach, and supporting grant applications. Increased social engagement by ~60% by analyzing audience behavior and launching targeted content strategies.",
     },
@@ -106,9 +110,9 @@ export const DATA = {
       badges: [],
       location: "St. John’s, NL",
       title: "Guest Service Representative",
-      logoUrl: "/bestwestern.png", 
-      start: "October 2021",
-      end: "October 2025",
+      logoUrl: "/bestwestern.png",
+      start: "Oct 2021",
+      end: "Oct 2025",
       description:
         "Primary point of contact for 100+ guests daily. Regularly led front desk operations as Acting Manager during peak seasons, maintaining a 99% guest satisfaction rate while handling scheduling, issue resolution, and staff coordination.",
     },
@@ -143,7 +147,7 @@ export const DATA = {
     {
       title: "Snipr",
       href: "https://tweetsniper.vercel.app/",
-      dates: "June 2025",
+      dates: "Jun 2025",
       active: false,
       description:
         "Built an AI-driven pipeline that fetches hundreds of finance-related tweets, classifies sentiment using GPT models, and verifies stock predictions against real market data via yFinance. Reduced manual research and validation effort by ~90%.",
@@ -171,7 +175,7 @@ export const DATA = {
     {
       title: "Housekeepr",
       href: "https://housekeepr.vercel.app/",
-      dates: "October 2024 - April 2025",
+      dates: "Oct 2024 - Apr 2025",
       active: false,
       description:
         "Built a web app to digitize hotel housekeeping workflows, reducing manual coordination by ~80% through real-time updates and centralized task tracking. Designed modular, responsive UI components for cross-device usage.",
@@ -189,7 +193,7 @@ export const DATA = {
     {
       title: "GitHubElo",
       href: "https://githubelo.web.app/",
-      dates: "November 2024",
+      dates: "Nov 2024",
       active: false,
       description:
         "Created a competitive GitHub Elo leaderboard that analyzes developer activity such as commits, repositories, and followers. Attracted 350+ users organically, primarily through Twitter.",
@@ -207,7 +211,7 @@ export const DATA = {
     {
       title: "Roomer",
       href: "https://roomer1-demo.web.app/",
-      dates: "June 2024 - September 2024",
+      dates: "Jun 2024 - Sep 2024",
       active: false,
       description:
         "Built a room-tracking tool that replaced paper logs with real-time digital check-outs, improving operational efficiency by ~70% for hospitality workflows.",
@@ -226,7 +230,7 @@ export const DATA = {
   hackathons: [
     {
       title: "AdhanCast",
-      dates: "Mar 2025", 
+      dates: "Mar 2025",
       location: "St. John's, NL",
       description:
         "Built a lightweight application that plays the Adhan automatically at prayer times based on user location. Focused on reliability, low resource usage, and simple configuration. Designed for personal and small-community use, with customizable notification and playback behavior.", // TODO: tweak if you want more technical depth
@@ -241,12 +245,12 @@ export const DATA = {
           type: "LinkedIn",
           icon: <Icons.globe className="h-4 w-4" />,
           href: "https://www.linkedin.com/feed/update/urn:li:activity:7301637061491531777/",
-        }
+        },
       ],
     },
     {
       title: "Rot Launcher Hack Night",
-      dates: "Mar 2025", 
+      dates: "Mar 2025",
       location: "St. John's, NL",
       description:
         "Built a dompamine inducing tool that launches Instagram reels directly into the home screen to increase short-form content consumption. Focused on speed, minimal UI, and quick access. Collaborated with another developer on design and implementation.", // TODO: expand on tech stack if desired
@@ -288,30 +292,29 @@ export const DATA = {
     // },
   ],
   education: [
-  {
-    school: "Get Building",
-    href: "https://getcoding.ca",
-    degree: "Full-Stack Software Development (Mentor-led Program)",
-    logoUrl: "/getbuilding.png", 
-    start: "May 2024",
-    end: "August 2025",
-  },
-  {
-    school: "techNL",
-    href: "https://technl.ca/ai-skills-launchpad/", 
-    degree: "AI in Data Engineering",
-    logoUrl: "/technl.png",
-    start: "February 2026",
-    end: "March 2026",
-  },
-  {
-    school: "Memorial University of Newfoundland",
-    href: "https://www.mun.ca",
-    degree: "Bachelor of Science, Computer Science (DNF 🥀)",
-    logoUrl: "/mun.png",
-    start: "September 2019",
-    end: "May 2024",
-  },
-],
-
+    {
+      school: "Get Building",
+      href: "https://getcoding.ca",
+      degree: "Full-Stack Software Development (Mentor-led Program)",
+      logoUrl: "/getbuilding.png",
+      start: "May 2024",
+      end: "August 2025",
+    },
+    {
+      school: "techNL",
+      href: "https://technl.ca/ai-skills-launchpad/",
+      degree: "AI in Data Engineering",
+      logoUrl: "/technl.png",
+      start: "Feb 2026",
+      end: "Mar 2026",
+    },
+    {
+      school: "Memorial University of Newfoundland",
+      href: "https://www.mun.ca",
+      degree: "Bachelor of Science, Computer Science (DNF 🥀)",
+      logoUrl: "/mun.png",
+      start: "Sep 2019",
+      end: "May 2024",
+    },
+  ],
 } as const;
