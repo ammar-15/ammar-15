@@ -24,7 +24,7 @@ export default function ContactSection() {
           Say Hi 👋
         </h2>
         <p className="mx-auto max-w-lg text-muted-foreground text-balance">
-          I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through any of the platforms below!
+          I&apos;m always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through any of the platforms below!
         </p>
       </div>
     </div>
