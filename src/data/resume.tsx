@@ -17,7 +17,7 @@ export const DATA = {
   location: "St. John's, NL",
   locationLink: "https://www.google.com/maps/place/stjohns",
   description: "Builder Vision. Engineer Brain.",
-  summary: "I like building apps and experimenting with new ideas. Into startups, shipping fast, and working on things that feel exciting to create.",
+  summary: "I like building and experimenting with new ideas. Into startups, shipping fast, and working on things that feel exciting to create. Very proficiently a swiss army knife.",
   avatarUrl: "/me.png",
   skills: [
     { name: "React", icon: ReactLight },
