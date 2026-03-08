@@ -1,5 +1,5 @@
 ## About Me
-<img align="right" style="margin: 20px border-radius:10px;" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ea7edfeb-691f-4099-8edf-ea80230b1917">
+<img align="right" style="margin: 20px border-radius:10px;" alt="Coding" width="400" src="https://github.com/user-attachments/assets/61bbc03c-e051-4ffe-a16f-a311a6566cf2" />
   
 - 🧠 Always eager to learn, I believe in the power of continuous learning and pushing my limits beyond the norms of capabilities made up by society.
 
@@ -34,9 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ammar-15&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Langs" width="28%"/>
 </div>
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/ammukuul15?theme=dark&ext=activity" alt="LeetCode Stats" />
-</div>
 <div align="center">
   <img align="center" src="https://streak-stats.demolab.com?user=ammar-15&theme=merko" alt="ammar-15" />
 </div>
