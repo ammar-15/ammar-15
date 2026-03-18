@@ -1,4 +1,4 @@
-## Building [Meridian🔗](https://meridian-transit.vercel.app)
+## Building [Meridian🔗](https://meridiantransit.ca)
 <img align="center" style="margin: 20px border-radius:10px;" width="640" height="360" alt="Meridian" src="https://github.com/user-attachments/assets/14215a35-9044-4a39-9f87-8ba7c6efacc3" />
 
 ## About Me
