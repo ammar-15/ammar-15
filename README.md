@@ -10,6 +10,11 @@
   [![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ammar_tsx/highlights)
 
 
+
+
+
+
+
 ## Projects
 
 - ⚽ [Goalzy🔗](https://github.com/ammar-15/fifa-tracker-frontend): Stats tracking and analysis for FIFA matches against your friends and AI.
